@@ -1,2 +1,1 @@
-# rpc-linea
-RPC LINEA NETWORK
+https://chainlist.org/?testnets=true&search=linea+
